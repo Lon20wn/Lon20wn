@@ -9,7 +9,7 @@ I'm a Computer Science student at Oregon State University preparing for entry-le
 A C++/SFML RPG where debugging is part of the gameplay.
 
 - Contributed as a Software Developer and Test Engineer.
-- Worked with C++, SFML, CMake, GoogleTest, and GitHub Actions.
+- Contributed to game development and testing using C++, SFML, CMake, GoogleTest, and GitHub Actions.
 - [View the repository](https://github.com/Connor-Allen10/codemon)
 
 ### [Janeway's OBGYN Association Database Application](https://github.com/Lon20wn/cs340-database-project-team16)
@@ -17,7 +17,8 @@ A C++/SFML RPG where debugging is part of the gameplay.
 A team-built web application for clinic administration and database workflows.
 
 - Contributed to a full-stack application using Node.js, Express, Handlebars, and MySQL/MariaDB.
-- Worked on database-backed CRUD workflows and application features.
+- Designed normalized relational tables and implemented SQL queries, stored procedures, and Express route handlers for database-backed workflows.
+- Used Handlebars layouts and views to present application data.
 - [View the repository](https://github.com/Lon20wn/cs340-database-project-team16)
 
 ## Skills
@@ -34,4 +35,3 @@ A team-built web application for clinic administration and database workflows.
 
 - [GitHub](https://github.com/Lon20wn)
 - [LinkedIn](https://www.linkedin.com/in/lon-danna-262335337/)
-- [Oregon State University](https://engineering.oregonstate.edu/)
